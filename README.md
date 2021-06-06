@@ -9,7 +9,7 @@ Trabajo de fin de grado de Ingeniería Informática realizado en la **Universida
 * Tutores: *Dr. José Francisco Diez Pastor* y *Dr. César Ignacio García Osorio*
 
 ---
-
+  
 ## Resumen
 La enfermedad del Parkinson causa, entre otras discapacidades, discapacidades en el habla a más del 90% de los pacientes. Esta enfermedad causa trastornos del habla como pueden ser volumen monótono, imprecisión en la articulación y otros síntomas. Hay numerosos estudios que abordan el problema de detección del Parkinson por voz, aunque sin llegar a desarrollar ninguna aplicación. En este estudio se aportan perspectivas diferentes para llegar a mejores resultados de precisión y, por otra parte, desarrollar una aplicación de ayuda al facultativo médico.
 
